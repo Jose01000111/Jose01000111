@@ -15,7 +15,7 @@ test
 </details>
 
 <b>Microsoft Azure</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jose01000111/configure-ad)
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jose01000111/configure-ad) 
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jose01000111/azure-network-protocols)
 
 
