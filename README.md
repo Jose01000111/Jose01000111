@@ -1,16 +1,12 @@
 <h1>Hi, I'm Jose, an <a href="https://linkedin.com/in/jose-guerrero-09a8b72b5">IT Professional</a>☺</h1>
 
-# Hi, I'm Jose, an <a href="https://linkedin.com/in/Jose01000111">IT Professional</a> ☺
-
-## 👨‍💻 Information Technology Projects:
-
-<details>
-  <summary><b>test</b></summary>
-
-  <p><b>Description:</b> test</p>
-  
-  ![test Image](https://github.com/Jose01000111/Jose01000111/blob/main/Screenshot%202025-03-21%20190441%20
-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
