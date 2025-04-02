@@ -5,9 +5,6 @@ I’m currently certified as a Microsoft IT Support Specialist and have my CompT
 
 💻[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
 
-
-
-
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
