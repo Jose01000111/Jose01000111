@@ -5,6 +5,9 @@ I’m currently certified as a Microsoft IT Support Specialist and have my CompT
 
 💻[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
 
+<h3>Education:</h3>
+As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the Course Careers Infromation Technology Course, I’ve gained practical experience in IT support and cybersecurity. I focus on hands-on learning and real-world labs like Azure, osTicket, and key Networktools like VPN, RDP, & DNS.
+
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
