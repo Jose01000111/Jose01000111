@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
-
   - [osTicket-UserCreation](https://github.com/Jose01000111/osTicket-UserCreation.git)
 
-[linkedin]: https://linkedin.com/in/JoGuerrero
+[linkedin]:(https://linkedin.com/in/JoGuerrero)
