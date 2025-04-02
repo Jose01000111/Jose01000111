@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jose Guerrero, an <a href="https://linkedin.com/in/JoGuerrero">IT Professional</a>☺</h1>
 
+[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
+
+
+
 <h2>👨‍💻 IT Support/ Sys. Admin Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
