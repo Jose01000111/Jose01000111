@@ -1,11 +1,21 @@
 <h1>Hi, I'm Jose Guerrero, an <a href="https://linkedin.com/in/JoGuerrero">IT Professional</a>☺</h1>
 
 <h3>Certifications:</h3>
-I’m currently certified as a Microsoft IT Support Specialist and have my CompTIA Security+ certification. I’m wrapping up CompTIA A+ Core 1 and have started Core 2, along with LPIC-1 and Microsoft MD-102. The best way to truly learn is by using these technologies and working directly with the tools I will soon rely on. That’s why I prioritize hands-on experience in real-world environments, ensuring I’m not just studying theoritical concepts but also gaining practical and technical experiences.
+I’ve already knocked out some key certifications that give me a solid foundation in IT support and cybersecurity:
 
 💻[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
 
 🛡️[CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url)
+
+Right now, I’m working on a few more to keep building my skills in IT support, system administration, and cybersecurity:
+
+CompTIA A+ Core 1 (Almost done!)
+
+CompTIA A+ Core 2 (In progress)
+
+LPIC-1 (In progress)
+
+Microsoft MD-102 (In progress)
 
 <h3>Education:</h3>
 As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the Course Careers Infromation Technology Course, I’ve gained practical experience in IT support and cybersecurity. I focus on hands-on learning and real-world labs like Azure, osTicket, and key Networktools like VPN, RDP, & DNS.
