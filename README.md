@@ -22,7 +22,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 
 📖[University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)
 
-<b>👨‍💻 IT Support/ Sys. Admin Projects:</b>
+<h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
 - <b>Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
