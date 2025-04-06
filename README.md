@@ -24,10 +24,10 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
-- <b>Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
+<b>Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   
-- <b>osTicket (Help Desk Ticketing System)</b>
+  <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
   - [osTicket-UserCreation](https://github.com/Jose01000111/osTicket-UserCreation.git)
 
