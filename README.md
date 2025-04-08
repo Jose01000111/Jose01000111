@@ -28,7 +28,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
   - [Day-2.5-troubleshoot-dc-static-ip](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git)
-  - 
+  - [Day-3-Setting-Up-Shared-Resources](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git)
   
   <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
