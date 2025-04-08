@@ -27,6 +27,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <b>Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
+  - []()
   
   <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
