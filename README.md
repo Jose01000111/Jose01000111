@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jose Guerrero, an <a href="https://linkedin.com/in/JoGuerrero">IT Professional</a>☺</h1>
 
-<h3>Certifications:</h3>
+<h3>📜Certifications:</h3>
 I’ve already knocked out some key certifications that give me a solid foundation in IT support and cybersecurity:
 
 💻[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
