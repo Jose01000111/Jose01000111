@@ -33,7 +33,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [Day-5-Backup-and-Continuity](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git)
 
 <b>🍽️ FreshTable Eats – 📲iOS MDM Lab (Jamf Now)</b>
-    
+   - [iOS-MDM-Lab-Jamf-Now-](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) 
   
   <b>🎟️osTicket (Help Desk Ticketing System):</b>
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
