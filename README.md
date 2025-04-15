@@ -40,7 +40,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [osTicket-UserCreation](https://github.com/Jose01000111/osTicket-UserCreation.git)
 
 <h3>🐧⚙️ Linux Sys. Admin/Engineer Projects:</h3>
- - [iOS-MDM-Lab-Jamf-Now](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) 
+ - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install.git) 
  
 <h2>🔗 Connect with me:</h2>
 
