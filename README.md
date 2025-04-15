@@ -23,7 +23,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 📖[University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)
 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
-
+- [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install.git)
 <b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
@@ -45,60 +45,3 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joguerrero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjil44Fe3S3e2ER8ZpHH2oA%3D%3D)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
