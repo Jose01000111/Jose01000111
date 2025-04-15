@@ -39,7 +39,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
   - [osTicket-UserCreation](https://github.com/Jose01000111/osTicket-UserCreation.git)
 
-<h3>🐧Linux Sys. Admin/Engineer Projects:</h3>
+<b>🐧Linux Sys. Admin/Engineer Projects:</b>
 [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
 
 
