@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jose Guerrero, an <a href="https://linkedin.com/in/JoGuerrero">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jose Guerrero 👋</h1>
+<p>I'm an <a href="https://linkedin.com/in/JoGuerrero" target="_blank">IT Professional</a> focused on Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!</p>
+
 
 <h3>📜Certifications:</h3>
 I’ve approached IT support and cybersecurity with a genuine enthusiasm to learn and improve. While earning certifications has been an important part of that process, I’ve also made it a point to go beyond theory by applying the tools and concepts in practical, hands-on ways:
