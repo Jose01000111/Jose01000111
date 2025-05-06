@@ -5,8 +5,6 @@
 <h3>📜Certifications:</h3>
 I’ve approached IT support and cybersecurity with a genuine enthusiasm to learn and improve. While earning certifications has been an important part of that process, I’ve also made it a point to go beyond theory by applying the tools and concepts in practical, hands-on ways:
 
-💻[Microsoft IT Support Specialist](https://coursera.org/share/faeda664b69737dd41e44fc38e2bf1a8)
-
 🛡️[CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url)
 
 Right now, I’m working on a few more to keep building my skills in IT support, system administration, and cybersecurity:
