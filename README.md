@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jose Guerrero 👋</h1>
-<p>I'm an <a href="https://linkedin.com/in/JoGuerrero" target="_blank">IT Professional</a> focused on Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!</p>
+<p>I'm an <a href="https://linkedin.com/in/JoGuerrero" target="_blank">IT Professional</a> focused on IT Support, Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!</p>
 
 
 <h3>📜Certifications:</h3>
