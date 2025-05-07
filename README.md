@@ -39,7 +39,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 
 <b>🐧Linux Sys. Admin/Engineer Projects:</b>
   - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
-
+  - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
 <h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joguerrero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjil44Fe3S3e2ER8ZpHH2oA%3D%3D)
