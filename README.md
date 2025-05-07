@@ -15,8 +15,6 @@ Right now, I’m working on a few more to keep building my skills in IT support,
 
 - LPIC-1 (In progress)
 
-- Microsoft MD-102 (In progress)
-
 <h3>🏫Education:</h3>
 As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the Course Careers Infromation Technology Course, I’ve gained practical experience in IT support and cybersecurity. I focus on hands-on learning and real-world labs like Azure, osTicket, and key Networktools like VPN, RDP, & DNS.
 
