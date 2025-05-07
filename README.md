@@ -22,6 +22,10 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
+<b>🐧Linux Sys. Admin/Engineer Projects:</b>
+  - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
+  - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
+
 <b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
@@ -37,9 +41,6 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
   - [osTicket-UserCreation](https://github.com/Jose01000111/osTicket-UserCreation.git)
 
-<b>🐧Linux Sys. Admin/Engineer Projects:</b>
-  - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
-  - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
 <h2>🔗 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joguerrero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjil44Fe3S3e2ER8ZpHH2oA%3D%3D)
