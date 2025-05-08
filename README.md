@@ -25,6 +25,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <b>🐧Linux Sys. Admin/Engineer Projects:</b>
   - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
   - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
+  - [Apache-Installation-Setup-Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
 
 <b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
