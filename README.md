@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jose Guerrero 👋</h1>
+<h1>Hi, I'm Jose Guerrero </h1>
 <p>I'm an <a href="https://linkedin.com/in/JoGuerrero" target="_blank">IT Professional</a> focused on IT Support, Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!</p>
 
 
@@ -27,6 +27,9 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
   - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
   - [Apache-Installation-Setup-Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
+
+<b>☁️Azure DNS Lab</b>
+  -
 
 <b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
