@@ -29,7 +29,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
   - [Apache-Installation-Setup-Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
 
 <b>☁️Azure DNS Lab</b>
-  -
+  -[Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
 
 <b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
