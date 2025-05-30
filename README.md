@@ -1,6 +1,7 @@
 <h1>Hi, I'm Jose Guerrero </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/joguerrero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSsKJqR5RS1qGat%2FqcorL4w%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
+
 
 
 I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!
