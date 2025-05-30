@@ -23,6 +23,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
 <b>🐧Linux Sys. Admin/Engineer Projects:</b>
+  - [ZTA-lab-ubuntu-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git)
   - [LPIC-1 101-500 & 102-500 Exam-Topic-Labs/Study-Guide](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git)
   - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
   - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
