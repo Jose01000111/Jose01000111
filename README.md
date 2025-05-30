@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
-
-
 I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!
 
 
