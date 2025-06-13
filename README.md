@@ -12,10 +12,6 @@ I’ve approached IT support and cybersecurity with a genuine enthusiasm to lear
 
 Right now, I’m working on a few more to keep building my skills in IT support, system administration, and cybersecurity:
 
-- CompTIA A+ Core 1 (220-1101) (Almost done!)
-
-- CompTIA A+ Core 2 (220-1102) (In progress)
-
 - LPIC-1 (In progress)
 
 <h3>🏫Education:</h3>
