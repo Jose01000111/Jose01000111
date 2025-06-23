@@ -31,7 +31,7 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <b> 🪟 Windows OS:</b>
   - [PowerShell-Fundamentals-Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git)
 
-<b>☁️Azure Admin:</b>
+<h4>☁️Azure Admin:</h4>
 
  - [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
 
