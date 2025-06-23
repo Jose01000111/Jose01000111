@@ -31,15 +31,17 @@ As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the 
 <b> 🪟 Windows OS:</b>
   - [PowerShell-Fundamentals-Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git)
 
-<b>☁️Azure Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
+<b>☁️Azure Admin:</b>
+
+ - [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
+
+<b> Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
   - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
   - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
   - [Day-2.5-troubleshoot-dc-static-ip](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git)
   - [Day-3-Setting-Up-Shared-Resources](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git)
   - [Day-4-Securing-a-Leak-and-Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git)
   - [Day-5-Backup-and-Continuity](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git)
-
-  - [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
 
 <b>🍽️ FreshTable Eats – 📲iOS MDM Lab (Jamf Now)</b>
    - [iOS-MDM-Lab-Jamf-Now](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) 
