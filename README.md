@@ -3,7 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
 > I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth.  
-> Explore my repositories to see my journey and projects!
+> I don’t just earn certifications — I back them up by actively applying the technologies and tools in real-world scenarios.  
+> Through hands-on projects and labs, I deepen my understanding while expanding my skills with ongoing certifications.  
+> Feel free to explore my repositories to see my practical work and journey in action!
+
 
 | 📜 **Certifications**                              | 🏫 **Education**                                                                                 |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -11,9 +14,6 @@
 | - LPIC-1 (In progress)                            | Graduated Course Careers IT Course                                                             |
 | - NETWORK + (In progress)                         | Altostratus Technologies (Linux Administrator course)                                          |
 | - MD-102  Microsoft 365 Certified: Endpoint Administrator Associate (In progress) | |
-
-> I’ve approached IT support and cybersecurity with genuine enthusiasm, focusing on practical, hands-on experience beyond theory.  
-> Currently working on more certifications to expand skills in IT support, system administration, and cybersecurity.
 
 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
