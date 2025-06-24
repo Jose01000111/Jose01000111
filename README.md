@@ -27,41 +27,33 @@
 
 ---
 
+## 👨‍💻 IT Support & Sys. Admin Projects
+
+### 🐧 Linux System Administration / Engineering
+- [ZTA Lab – CentOS Hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git)
+- [LPIC-1 Hands-On Labs & Study Guide](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git)
+- [Ubuntu Install Automation](https://github.com/Jose01000111/Ubuntu-Install)
+- [Remote Access with PuTTY & Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
+- [Apache Installation & Setup](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
+
+### 🪟 Windows OS / PowerShell
+- [PowerShell Fundamentals Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git)
+
+### ☁️ Azure Administration
+- [Azure DNS Setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
+
+### 🐻 Active Directory: Chicago Bears HQ Lab
+- [Day 1 – Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
+- [Day 2 – Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
+- [Day 2.5 – Troubleshooting DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git)
+- [Day 3 – Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git)
+- [Day 4 – Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git)
+- [Day 5 – Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git)
+
+### 📲 iOS MDM (Jamf Now)
+- [FreshTable Eats – iOS MDM Lab](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git)
+
+### 🎟️ Help Desk / osTicket
+- [osTicket Installation & Setup](https://github.com/Jose01000111/osTicket-Install.git)
 
 
-
-
-
-<h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
-
-<b>🐧Linux Sys. Admin/Engineer Projects:</b>
-  - [ZTA-lab-CentOS-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git)
-  - [LPIC-1 101-500 & 102-500 Exam-Topic-Labs/Study-Guide](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git)
-  - [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install)
-  - [Remote-Access-with-PuTTY&Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
-  - [Apache-Installation-Setup-Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
-
-<b> 🪟 Windows OS:</b>
-  - [PowerShell-Fundamentals-Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git)
-
-<h4>☁️Azure Admin:</h4>
-
- - [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
-
-<b> Active Directory Lab: Chicago Bears 🐻 Arlington Heights Headquarters Lab:</b>
-  - [Day-1-Establishing-the-Active-Directory-Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
-  - [Day-2-Creating-User-Accounts-and-Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
-  - [Day-2.5-troubleshoot-dc-static-ip](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git)
-  - [Day-3-Setting-Up-Shared-Resources](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git)
-  - [Day-4-Securing-a-Leak-and-Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git)
-  - [Day-5-Backup-and-Continuity](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git)
-
-<b>🍽️ FreshTable Eats – 📲iOS MDM Lab (Jamf Now)</b>
-   - [iOS-MDM-Lab-Jamf-Now](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) 
-  
-  <b>🎟️osTicket (Help Desk Ticketing System):</b>
-  - [osTicket: Installation](https://github.com/Jose01000111/osTicket-Install.git)
-
-<h2>🔗 Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joguerrero?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjil44Fe3S3e2ER8ZpHH2oA%3D%3D)
