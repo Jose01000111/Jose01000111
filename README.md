@@ -29,6 +29,11 @@
 
 ## 👨‍💻 IT Support & Sys. Admin Projects
 
+> ⚠️ **Disclaimer:**  
+> I do not expect all labs to be fully successful or perfectly organized at this stage.  
+> This repository reflects my ongoing technical growth, troubleshooting efforts, and continuous refinement.  
+> Transparency about challenges and mistakes is part of my learning journey.
+
 ### 🐧 Linux System Administration / Engineering
 
 | Project Title | Link |
