@@ -30,30 +30,59 @@
 ## 👨‍💻 IT Support & Sys. Admin Projects
 
 ### 🐧 Linux System Administration / Engineering
-- [ZTA Lab – CentOS Hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git)
-- [LPIC-1 Hands-On Labs & Study Guide](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git)
-- [Ubuntu Install Automation](https://github.com/Jose01000111/Ubuntu-Install)
-- [Remote Access with PuTTY & Bash](https://github.com/Jose01000111/Putty-SSH-Lab.git)
-- [Apache Installation & Setup](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git)
+
+| Project Title | Link |
+|---------------|------|
+| ZTA Lab – CentOS Hardened | [ZTA-lab-CentOS-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
+| LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
+| Ubuntu Install Automation | [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install) |
+| Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
+| Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
+
+---
 
 ### 🪟 Windows OS / PowerShell
-- [PowerShell Fundamentals Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git)
+
+| Project Title | Link |
+|---------------|------|
+| PowerShell Fundamentals Lab | [PowerShell Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git) |
+
+---
 
 ### ☁️ Azure Administration
-- [Azure DNS Setup](https://github.com/Jose01000111/Azure-DNS-setup.git)
 
-### 🐻 Active Directory: Chicago Bears HQ Lab
-- [Day 1 – Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git)
-- [Day 2 – Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git)
-- [Day 2.5 – Troubleshooting DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git)
-- [Day 3 – Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git)
-- [Day 4 – Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git)
-- [Day 5 – Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git)
+| Project Title | Link |
+|---------------|------|
+| Azure DNS Setup | [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git) |
+
+---
+
+### 🐻 Active Directory – Chicago Bears HQ Lab
+
+| Day | Task | Link |
+|-----|------|------|
+| 1 | Establishing the Domain | [Day 1](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
+| 2 | Creating Users & Groups | [Day 2](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
+| 2.5 | Troubleshoot DC Static IP | [Day 2.5](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
+| 3 | Shared Resources Setup | [Day 3](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
+| 4 | Securing a Leak & Deprovisioning | [Day 4](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
+| 5 | Backup & Continuity Planning | [Day 5](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
+
+---
 
 ### 📲 iOS MDM (Jamf Now)
-- [FreshTable Eats – iOS MDM Lab](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git)
 
-### 🎟️ Help Desk / osTicket
-- [osTicket Installation & Setup](https://github.com/Jose01000111/osTicket-Install.git)
+| Project Title | Link |
+|---------------|------|
+| FreshTable Eats – iOS MDM Lab | [MDM Lab](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) |
 
+---
+
+### 🎟️ Help Desk – osTicket
+
+| Project Title | Link |
+|---------------|------|
+| osTicket Installation & Setup | [osTicket Install](https://github.com/Jose01000111/osTicket-Install.git) |
+
+---
 
