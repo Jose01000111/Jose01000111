@@ -1,23 +1,20 @@
-<h1>Hi, I'm Jose Guerrero </h1>
+# Hi, I'm Jose Guerrero
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
-I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth. Explore my repositories to see my journey and projects!
+> I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth.  
+> Explore my repositories to see my journey and projects!
 
+| 📜 **Certifications**                              | 🏫 **Education**                                                                                 |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------|
+| 🛡️ [CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url) | 📖 [University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)  |
+| - LPIC-1 (In progress)                            | Graduated Course Careers IT Course                                                             |
+| - NETWORK + (In progress)                         | Altostratus Technologies (Linux Administrator course)                                          |
+| - MD-102  Microsoft 365 Certified: Endpoint Administrator Associate (In progress) | |
 
-<h3>📜Certifications:</h3>
-I’ve approached IT support and cybersecurity with a genuine enthusiasm to learn and improve. While earning certifications has been an important part of that process, I’ve also made it a point to go beyond theory by applying the tools and concepts in practical, hands-on ways:
+> I’ve approached IT support and cybersecurity with genuine enthusiasm, focusing on practical, hands-on experience beyond theory.  
+> Currently working on more certifications to expand skills in IT support, system administration, and cybersecurity.
 
-🛡️[CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url)
-
-Right now, I’m working on a few more to keep building my skills in IT support, system administration, and cybersecurity:
-
-- LPIC-1 (In progress)
-
-<h3>🏫Education:</h3>
-As a proud graduate of the University of Chicago Cybersecurity Bootcamp and the Course Careers Infromation Technology Course, I’ve gained practical experience in IT support and cybersecurity. I focus on hands-on learning and real-world labs like Azure, osTicket, and key Networktools like VPN, RDP, & DNS.
-
-📖[University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)
 
 <h3>👨‍💻 IT Support/ Sys. Admin Projects:</h3>
 
