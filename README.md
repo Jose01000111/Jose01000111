@@ -8,26 +8,25 @@
 > Feel free to explore my repositories to see my practical work and journey in action!
 
 
-| 📜 **Certifications**                              | 🏫 **Education**                                                                                 |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 🛡️ [CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url) | 📖 [University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)  |
-| - LPIC-1 (In progress)                            | Graduated Course Careers IT Course                                                             |
-| - NETWORK + (In progress)                         | Altostratus Technologies (Linux Administrator course)                                          |
-| - MD-102  Microsoft 365 Certified: Endpoint Administrator Associate (In progress) | |
+---
 
-
-> ### 📜 Certifications
-> - 🛡️ [CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url)
-> - LPIC-1 (In progress)
-> - NETWORK+ (In progress)
-> - MD-102 Microsoft 365 Certified: Endpoint Administrator Associate (In progress)
+| 📜 **Certifications**                              |
+|---------------------------------------------------|
+| 🛡️ [CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url) |
+| - LPIC-1 (In progress)                            |
+| - NETWORK+ (In progress)                          |
+| - MD-102 Microsoft 365 Certified: Endpoint Administrator Associate (In progress) |
 
 ---
 
-> ### 🏫 Education
-> - 📖 [University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)
-> - Graduated Course Careers IT Course
-> - Altostratus Technologies (Linux Administrator course)
+| 🏫 **Education**                                                                                 |
+|------------------------------------------------------------------------------------------------|
+| 📖 [University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)  |
+| Graduated Course Careers IT Course                                                             |
+| Altostratus Technologies (Linux Administrator course)                                          |
+
+---
+
 
 
 
