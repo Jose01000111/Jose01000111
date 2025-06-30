@@ -38,6 +38,7 @@
 
 | Project Title | Link |
 |---------------|------|
+| Phishing Awareness Campaign | [Phising with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
 | ZTA Lab – CentOS Hardened | [ZTA-lab-CentOS-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
 | LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
 | Ubuntu Install Automation | [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install) |
