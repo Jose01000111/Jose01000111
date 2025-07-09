@@ -38,7 +38,7 @@
 
 | Project Title | Link |
 |---------------|------|
-| Altostratus Linux Admin Bootcamp Final Project  | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git)
+| Altostratus Linux Admin Final Project  | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git)
 | Phishing Awareness Campaign | [Phising with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
 | ZTA Lab – CentOS Hardened | [ZTA-lab-CentOS-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
 | LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
