@@ -59,15 +59,6 @@
 | ✅ Final Testing & Offboarding              | [Day6]()         |
 | 💾 Backup & Snapshots                       | [Day7]()         |
 
-
----
-
-### ☁️ Azure Administration
-
-| Project Title | Link |
-|---------------|------|
-| Azure DNS Setup | [Azure-DNS-setup](https://github.com/Jose01000111/Azure-DNS-setup.git) |
-
 ---
 
 ### 🐻 Active Directory – Chicago Bears HQ Lab
