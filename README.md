@@ -47,12 +47,16 @@
 | Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
 
 ---
+### 🔥 BBQ Festival Active Directory 7-Day Lab 🔥
 
-### 🪟 Windows OS / PowerShell
+| 1   | 🔥 Set Up Hyper-V and Install VMs        | [Day1]()         |
+| 2   | 🛡️ Promote Domain Controller and Configure | [Day2]()         |
+| 3   | 👥 Create Users and Assign Groups          | [Day3]()         |
+| 4   | 📂 File Server & Share Permissions         | [Day4]()         |
+| 5   | 🗂️ Apply Group Policies (GPO)               | [Day5]()         |
+| 6   | ✅ Final Testing & Offboarding              | [Day6]()         |
+| 7   | 💾 Backup & Snapshots                       | [Day7]()         |
 
-| Project Title | Link |
-|---------------|------|
-| PowerShell Fundamentals Lab | [PowerShell Lab](https://github.com/Jose01000111/PowerShell-Fundamentals-Lab.git) |
 
 ---
 
