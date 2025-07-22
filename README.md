@@ -49,13 +49,15 @@
 ---
 ### 🔥 BBQ Festival Active Directory 7-Day Lab 🔥
 
-| 1   | 🔥 Set Up Hyper-V and Install VMs        | [Day1]()         |
-| 2   | 🛡️ Promote Domain Controller and Configure | [Day2]()         |
-| 3   | 👥 Create Users and Assign Groups          | [Day3]()         |
-| 4   | 📂 File Server & Share Permissions         | [Day4]()         |
-| 5   | 🗂️ Apply Group Policies (GPO)               | [Day5]()         |
-| 6   | ✅ Final Testing & Offboarding              | [Day6]()         |
-| 7   | 💾 Backup & Snapshots                       | [Day7]()         |
+| Project Title                               | Link    |
+|------------------------------------------|--------------|
+| 🔥 Set Up Hyper-V and Install VMs        | [Day1]()         |
+| 🛡️ Promote Domain Controller and Configure | [Day2]()         |
+| 👥 Create Users and Assign Groups          | [Day3]()         |
+| 📂 File Server & Share Permissions         | [Day4]()         |
+| 🗂️ Apply Group Policies (GPO)               | [Day5]()         |
+| ✅ Final Testing & Offboarding              | [Day6]()         |
+| 💾 Backup & Snapshots                       | [Day7]()         |
 
 
 ---
