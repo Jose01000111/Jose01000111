@@ -44,10 +44,16 @@
 | Ubuntu Install Automation | [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install) |
 | Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
 | Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
-
 ---
 
-### Bank of SecureNet Chicago Branch — Active Directory Lab 2025
+### 🧰 My SOHO Network 
+
+| Project Title                                       | Link    |
+|----------------------------------------------------|---------|
+|🆕Hardware Unboxing! | [Hardware Inventory & Topology]  | 
+---
+
+### 💰 Bank of SecureNet Chicago Branch — Active Directory Lab 2025
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
