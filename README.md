@@ -46,21 +46,21 @@
 | Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
 
 ---
-### 🔥 BBQ Festival Active Directory 7-Day Lab 🔥
 
-| Project Title                               | Link    |
-|------------------------------------------|--------------|
-| 🔥 Set Up Hyper-V and Install VMs        | [Day1]()         |
-| 🛡️ Promote Domain Controller and Configure | [Day2]()         |
-| 👥 Create Users and Assign Groups          | [Day3]()         |
-| 📂 File Server & Share Permissions         | [Day4]()         |
-| 🗂️ Apply Group Policies (GPO)               | [Day5]()         |
-| ✅ Final Testing & Offboarding              | [Day6]()         |
-| 💾 Backup & Snapshots                       | [Day7]()         |
+### Bank of SecureNet Chicago Branch — Active Directory Lab 2025
+
+| Project Title                                       | Link    |
+|----------------------------------------------------|---------|
+| ⚙️ Set Up Hyper-V and Create Windows Server VM      | [Day1]() |
+| 🛡️ Promote Domain Controller & Configure AD DS      | [Day2]() |
+| 💻 PowerShell: Create Users & Add Login Banner      | [Day3]() |
+| 📁 GUI: File Server Setup & Share Permissions       | [Day4]() |
+| 🧠 GUI: Group Policy Management & Final Testing      | [Day5]() |
+
 
 ---
 
-### 🐻 Active Directory – Chicago Bears HQ Lab
+### 🐻 Active Directory – Chicago Bears HQ Lab 2024
 
 | Day | Task | Link |
 |-----|------|------|
