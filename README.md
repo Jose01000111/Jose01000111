@@ -50,7 +50,7 @@
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
-|🆕Hardware Unboxing! | [Hardware Inventory & Topology]  | 
+|🆕Hardware Unboxing! | [Hardware Inventory & Topology](https://github.com/Jose01000111/MY-SOHO-NETWORK.git)  | 
 ---
 
 ### 💰 Bank of SecureNet Chicago Branch — Active Directory Lab 2025
