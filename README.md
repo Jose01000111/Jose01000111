@@ -54,7 +54,7 @@
 |🔌Networked SOHO  |[Connecting My SOHO](https://github.com/Jose01000111/Connecting-My-Soho-Hardware.git) |
 ---
 
-### 💰 Bank of SecureNet Chicago Branch — Active Directory Lab 2025
+### 🏦 Bank Branch — Active Directory Lab 2025
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
