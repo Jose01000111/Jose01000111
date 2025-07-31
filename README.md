@@ -58,9 +58,9 @@
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
-| ⚙️ Set Up Hyper-V and Create Windows Server VM      | [Day1](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) |
-| 🛡️ Promote Domain Controller & Configure AD DS      | [Day2](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) |
-| 💻 PowerShell: Create Users & Add Login Banner      | [Day3]() |
+| 🛡️ Promote Domain Controller & Configure AD DS            | [Day1](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) |
+| 💻 PowerShell: Create Users & OU Hierchy      | [Day2](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) |
+|  Add Login Banner      | [Day3]() |
 | 📁 GUI: File Server Setup & Share Permissions       | [Day4]() |
 | 🧠 GUI: Group Policy Management & Final Testing      | [Day5]() |
 
