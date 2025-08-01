@@ -60,7 +60,7 @@
 |----------------------------------------------------|---------|
 | 🛡️ Promote Domain Controller & Configure AD DS            | [Day1](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) |
 | 💻 PowerShell: Create Users & OU Hierchy      | [Day2](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) |
-| 🎟️ Banner, Login Test, Password Reset      | [Day3]() |
+| 🎟️ Banner, Login Test, Password Reset      | [Day3](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) |
 | 📁 GUI: File Server Setup & Share Permissions       | [Day4]() |
 | 🧠 GUI: Group Policy Management & Final Testing      | [Day5]() |
 
