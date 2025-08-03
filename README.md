@@ -62,7 +62,7 @@
 | 💻 PowerShell: Create Users & OU Hierchy      | [Day2](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) |
 | 🎟️ Banner, Login Test, Password Reset      | [Day3](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) |
 | 📁 OU Movement, Grouping, and Account Control       | [Day4](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) |
-| 🧠 GUI: Group Policy Management & Final Testing      | [Day5](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) |
+| 🧠 Final AD Audit & Cleanup      | [Day5](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) |
 
 
 ---
