@@ -56,7 +56,7 @@
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
-|🖥️Basic Network Setup & Packet Capture| [Day 1]() |
+|🖥️Basic Network Setup & Packet Capture| [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
 
 ---
 
