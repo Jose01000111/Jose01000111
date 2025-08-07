@@ -52,6 +52,12 @@
 |----------------------------------------------------|---------|
 |🆕Hardware Unboxing! | [Hardware Inventory & Topology](https://github.com/Jose01000111/MY-SOHO-NETWORK.git)  | 
 
+### 🧰 My SOHO Network (CompTIA Network+ Exam Objective Guided Labs)
+
+| Project Title                                       | Link    |
+|----------------------------------------------------|---------|
+|🖥️Basic Network Setup & Packet Capture| [Day 1]() |
+
 ---
 
 ### 🏦 Bank Branch — Active Directory Lab 2025
