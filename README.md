@@ -57,7 +57,7 @@
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
 |🖥️Basic Network Setup & Packet Capture| [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
-
+|🔍Network Discovery with Nmap & Zenmap | [Day 2](https://github.com/Jose01000111/Network-Discovery-with-Nmap-Zenmap.git) |
 ---
 
 ### 🏦 Bank Branch — Active Directory Lab 2025
