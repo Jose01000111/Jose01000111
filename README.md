@@ -56,9 +56,10 @@
 
 | Project Title                                       | Link    |
 |----------------------------------------------------|---------|
-|🖥️Basic Network Setup & Packet Capture| [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
-|🔍Network Discovery with Nmap & Zenmap | [Day 2](https://github.com/Jose01000111/Network-Discovery-with-Nmap-Zenmap.git) |
-|🧮 DHCP & 🌐 DNS Setup | [Day 3](https://github.com/Jose01000111/-DHCP-DNS-Setup.git)
+|🖥️ Basic Network Setup & Packet Capture| [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
+|🔍 Network Discovery with Nmap & Zenmap | [Day 2](https://github.com/Jose01000111/Network-Discovery-with-Nmap-Zenmap.git) |
+|🧮 DHCP & 🌐 DNS Setup | [Day 3](https://github.com/Jose01000111/-DHCP-DNS-Setup.git) |
+|📶 My Wireless Network Lab (WPA3) |[Day 4](https://github.com/Jose01000111/Day-4-My-Wireless-Network-Lab-WPA3-.git) |
 ---
 
 ### 🏦 Bank Branch — Active Directory Lab 2025
