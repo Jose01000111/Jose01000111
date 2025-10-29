@@ -15,8 +15,6 @@
 | 🛡️ [CompTIA Security+](https://www.credly.com/badges/9678f89d-5ba9-4d57-8190-42ead314d0e8/public_url) |
 | - LPI Linux essentials (In progress)                            |
 | - NETWORK+ (In progress)   |
-| - CompTIA A+ (In progress)
-| - MD-102 Microsoft 365 Certified: Endpoint Administrator Associate (Studying Curriculum) |
 
 ---
 
