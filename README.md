@@ -22,6 +22,9 @@
 |------------------------------------------------------------------------------------------------|
 | 📖 [University of Chicago Cybersecurity Bootcamp](https://api.accredible.com/v1/auth/invite?code=35e53e09a9edc315ec86&credential_id=310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&url=https%3A%2F%2Fcredentials.professional.uchicago.edu%2F310bfba5-0ffc-4fa6-9e8c-adb7f61fb82b&ident=3a4a094f-62f5-46ea-97a5-88df8c6fee68/)  |
 | [📚 Course Careers IT Course](https://coursecareers.com/courses/it-course/4a533448-6e09-4f1e-9725-2ba8e7a1cc51)   |                                                        
+---
+
+[](https://github.com/Jose01000111/Splunk-SOC-Lab.git)
 
 ---
 
