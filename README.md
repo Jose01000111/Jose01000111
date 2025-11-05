@@ -31,7 +31,7 @@ These labs reflect ongoing learning in data security and SOC operations.
 🔒 Projects
 Project Title | Link
 --------------|-----
-SIEM Log Ingestion Lab | [⚡ Splunk Security Operations Lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git)
+|🔹 Enterprise Security SIEM Ingestion Lab | [⚡ Splunk Security Operations Lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git)
 
 ---
 
