@@ -24,35 +24,41 @@
 | [📚 Course Careers IT Course](https://coursecareers.com/courses/it-course/4a533448-6e09-4f1e-9725-2ba8e7a1cc51)   |                                                        
 ---
 
-🛡️ SOC Data Security Projects
-⚠️ Disclaimer:
-These labs reflect ongoing learning in data security and SOC operations.
+# 🛡️ SOC & Data Security Projects
 
-🔒 Projects
-Project Title | Link
---------------|-----
-|🔹 Enterprise Security SIEM Ingestion Lab | [⚡ Splunk Security Operations Lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git)
+> ⚠️ **Disclaimer:**  
+> These labs reflect ongoing learning in data security, SOC operations, and system administration. Not all labs are fully complete, but they showcase experimentation, troubleshooting, and skill-building.
 
 ---
 
-## 👨‍💻 IT Support & Sys. Admin Projects
-
-> ⚠️ **Disclaimer:**  
-> I do not expect all labs to be fully successful or perfectly organized at this stage.  
-> This repository reflects my ongoing technical growth, troubleshooting efforts, and continuous refinement.  
-> Transparency about challenges and mistakes is part of my learning journey.
-
-### 🐧 Linux System Administration / Engineering
+## 🔹 SIEM & Security Monitoring Projects
 
 | Project Title | Link |
 |---------------|------|
-| Altostratus Linux Admin Final Project  | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git)
-| Phishing Awareness Campaign | [Phising with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
-| ZTA Lab – CentOS Hardened | [ZTA-lab-CentOS-hardened](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
+| Enterprise Security SIEM Ingestion Lab | [⚡ Splunk Security Operations Lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git) |
+
+---
+
+## 🔹 Security Research & Threat Simulation
+
+| Project Title | Link |
+|---------------|------|
+| Backup Server Honeypot | [Honeypot Lab](https://github.com/Jose01000111/Backup-Server-Trap-Honeypot.git) |
+| Phishing Awareness Campaign | [Phishing Lab with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
+| ZTA Lab – CentOS Hardened | [Zero Trust Architecture Lab](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
+
+---
+
+## 🔹 IT Administration & Engineering
+
+| Project Title | Link |
+|---------------|------|
+| Altostratus Linux Admin Final Project | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git) |
 | LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
-| Ubuntu Install Automation | [Ubuntu-Install](https://github.com/Jose01000111/Ubuntu-Install) |
+| Ubuntu Install Automation | [Ubuntu Install Lab](https://github.com/Jose01000111/Ubuntu-Install) |
 | Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
 | Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
+
 ---
 
 ### 🧰 My SOHO Network 
