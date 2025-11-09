@@ -48,11 +48,14 @@
 
 | Project Title | Link |
 |---------------|------|
-| Altostratus Linux Admin Final Project | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git) |
-| LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
-| Ubuntu Install Automation | [Ubuntu Install Lab](https://github.com/Jose01000111/Ubuntu-Install) |
-| Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
-| Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
+| 🖥️ Altostratus Linux Admin Final Project | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git) |
+| 📚 LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
+| 🐧 Ubuntu Install Automation | [Ubuntu Install Lab](https://github.com/Jose01000111/Ubuntu-Install) |
+| 🔐 Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
+| 🌐 Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
+| 📱 FreshTable Eats – iOS MDM Lab | [MDM Lab](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) |
+| 🛠️ osTicket Installation & Setup | [osTicket Install](https://github.com/Jose01000111/osTicket-Install.git) |
+
 
 ---
 ### 🧰 My SOHO Network Labs
@@ -72,41 +75,15 @@
 
 | 🏦 Bank Branch — AD Lab 2025 | 🐻 Chicago Bears HQ — AD Lab 2024 |
 |-----------------------------|----------------------------------|
-| 🛡️ [Promote Domain Controller & Configure AD DS](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) | [Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
-| 💻 [PowerShell: Create Users & OU Hierarchy](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) | [Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
-| 🎟️ [Banner, Login Test, Password Reset](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) | [Troubleshoot DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
-| 📁 [OU Movement, Grouping, and Account Control](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) | [Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
-| 🧠 [Final AD Audit & Cleanup](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) | [Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
-|  | [Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
+| 🛡️ [Promote Domain Controller & Configure AD DS](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) | 🏗️ [Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
+| 💻 [PowerShell: Create Users & OU Hierarchy](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) | 👥 [Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
+| 🎟️ [Banner, Login Test, Password Reset](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) | ⚡ [Troubleshoot DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
+| 📁 [OU Movement, Grouping, and Account Control](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) | 🗂️ [Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
+| 🧠 [Final AD Audit & Cleanup](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) | 🔒 [Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
+|  | 💾 [Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
 
----
-
-### 📲 iOS MDM (Jamf Now)
-
-| Project Title | Link |
-|---------------|------|
-| FreshTable Eats – iOS MDM Lab | [MDM Lab](https://github.com/Jose01000111/iOS-MDM-Lab-Jamf-Now-.git) |
-
----
-
-### 🎟️ Help Desk – osTicket
-
-| Project Title | Link |
-|---------------|------|
-| osTicket Installation & Setup | [osTicket Install](https://github.com/Jose01000111/osTicket-Install.git) |
 
 ---
 
 
-
-### 🖥️ Active Directory Labs
-
-| 🏦 Bank Branch — AD Lab 2025 | 🐻 Chicago Bears HQ — AD Lab 2024 |
-|-----------------------------|----------------------------------|
-| 🛡️ [Promote Domain Controller & Configure AD DS](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) | [Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
-| 💻 [PowerShell: Create Users & OU Hierarchy](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) | [Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
-| 🎟️ [Banner, Login Test, Password Reset](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) | [Troubleshoot DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
-| 📁 [OU Movement, Grouping, and Account Control](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) | [Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
-| 🧠 [Final AD Audit & Cleanup](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) | [Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
-|  | [Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
 
