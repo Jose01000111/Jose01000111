@@ -7,7 +7,6 @@
 > Through hands-on projects and labs, I deepen my understanding while expanding my skills with ongoing certifications.  
 > Feel free to explore my repositories to see my practical work and journey in action!
 
-
 ---
 | 📜 **Certifications & Goals** | 🏫 **Education** |
 |-------------------------------|-----------------|
