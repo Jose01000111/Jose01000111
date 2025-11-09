@@ -1,5 +1,7 @@
 # Hi, I'm Jose Guerrero
 
+![DbIHGRo](https://github.com/user-attachments/assets/8b73dcfe-ef1c-4d5e-9dda-0530f6af4d49)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
 > I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth.  
