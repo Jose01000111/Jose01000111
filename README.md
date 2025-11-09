@@ -27,7 +27,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | Project Title | Link |
 |---------------|------|
 | 🐝 Backup Server Honeypot | [Honeypot Lab](https://github.com/Jose01000111/Backup-Server-Trap-Honeypot.git) |
-| 🍃 MongoDB Security Data Fedaration | [🧭 mongoDB Data Fedaraton enviorment setup](https://github.com/Jose01000111/MongoDB-Security-Data-Fedaration.git) |
+| 🍃 MongoDB Security Data Fedaration | [MongoDB Data Fedaraton enviorment setup](https://github.com/Jose01000111/MongoDB-Security-Data-Fedaration.git) |
 | ⚡ Splunk Enterprise Security SIEM Ingestion Lab | [Splunk Security Operations Full-lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git) |
 
 > 🔗 **Note:** More labs and resources are included inside the linked repository for the full SIEM lab .
