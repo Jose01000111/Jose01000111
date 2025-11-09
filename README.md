@@ -4,10 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
-### I’m an IT professional exploring Linux, networking, and security-focused technologies through hands-on projects and labs.
-While I may pursue certifications, my focus is on validating and applying tools and concepts in practical scenarios first.
-By experimenting with real-world setups and workflows, I aim to strengthen my skills, learn continuously, and understand the technologies beyond theory.
-Feel free to browse my repositories to see my work, experiments, and ongoing journey in action!
+I’m an Information Technology Specialist learning & working with Linux, networking technologies, and security-focused technologies through hands-on projects and labs, prioritizing practical application and experimentation to deepen my skills and understanding while continuously learning and validating concepts. Linux, networking, and security-focused technologies through hands-on projects and labs, prioritizing practical application and experimentation to deepen my skills and understanding.
 
 ---
 | 📜 **Certifications & Goals** | 🏫 **Education** |
