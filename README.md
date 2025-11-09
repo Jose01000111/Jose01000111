@@ -4,10 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
-> I'm an IT Professional focused on IT Support, Linux, networking, and continuous growth.  
-> I don’t just earn certifications — I back them up by actively applying the technologies and tools in real-world scenarios.  
-> Through hands-on projects and labs, I deepen my understanding while expanding my skills with ongoing certifications.  
-> Feel free to explore my repositories to see my practical work and journey in action!
+### I’m an IT professional exploring Linux, networking, and security-focused technologies through hands-on projects and labs.
+While I may pursue certifications, my focus is on validating and applying tools and concepts in practical scenarios first.
+By experimenting with real-world setups and workflows, I aim to strengthen my skills, learn continuously, and understand the technologies beyond theory.
+Feel free to browse my repositories to see my work, experiments, and ongoing journey in action!
 
 ---
 | 📜 **Certifications & Goals** | 🏫 **Education** |
