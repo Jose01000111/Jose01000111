@@ -60,21 +60,18 @@
 | Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
 
 ---
+### 🧰 My SOHO Network Labs
 
-### 🧰 My SOHO Network 
+> Guided by CompTIA Network+ objectives, these labs document my SOHO network setup, configuration, and exploration.
 
-| Project Title                                       | Link    |
-|----------------------------------------------------|---------|
-|🆕Hardware Unboxing! | [Hardware Inventory & Topology](https://github.com/Jose01000111/MY-SOHO-NETWORK.git)  | 
+| Project | Link |
+|---------|------|
+| 🆕 Hardware Inventory & Topology | [Hardware Unboxing & Topology](https://github.com/Jose01000111/MY-SOHO-NETWORK.git) |
+| 🖥️ Basic Network Setup & Packet Capture | [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
+| 🔍 Network Discovery with Nmap & Zenmap | [Day 2](https://github.com/Jose01000111/Network-Discovery-with-Nmap-Zenmap.git) |
+| 🧮 DHCP & 🌐 DNS Configuration | [Day 3](https://github.com/Jose01000111/-DHCP-DNS-Setup.git) |
+| 📶 Wireless Network Lab (WPA3) | [Day 4](https://github.com/Jose01000111/Day-4-My-Wireless-Network-Lab-WPA3-.git) |
 
-### 🧰 My SOHO Network (CompTIA Network+ Exam Objective Guided Labs)
-
-| Project Title                                       | Link    |
-|----------------------------------------------------|---------|
-|🖥️ Basic Network Setup & Packet Capture| [Day 1](https://github.com/Jose01000111/Basic-Network-Setup-Packet-Capture.git) |
-|🔍 Network Discovery with Nmap & Zenmap | [Day 2](https://github.com/Jose01000111/Network-Discovery-with-Nmap-Zenmap.git) |
-|🧮 DHCP & 🌐 DNS Setup | [Day 3](https://github.com/Jose01000111/-DHCP-DNS-Setup.git) |
-|📶 My Wireless Network Lab (WPA3) |[Day 4](https://github.com/Jose01000111/Day-4-My-Wireless-Network-Lab-WPA3-.git) |
 ---
 
 ### 🏦 Bank Branch — Active Directory Lab 2025
