@@ -27,11 +27,10 @@
 
 | Project Title | Link |
 |---------------|------|
-| Backup Server Honeypot | [Honeypot Lab](https://github.com/Jose01000111/Backup-Server-Trap-Honeypot.git) |
-| Enterprise Security SIEM Ingestion Lab | [⚡ Splunk Security Operations Full-lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git) |
+| 🐝 Backup Server Honeypot | [Honeypot Lab](https://github.com/Jose01000111/Backup-Server-Trap-Honeypot.git) |
+| ⚡ Splunk Enterprise Security SIEM Ingestion Lab | [Splunk Security Operations Full-lab](https://github.com/Jose01000111/Splunk-SOC-Lab.git) |
 
 > 🔗 **Note:** More labs and resources are included inside the linked repository for the full SIEM lab experience.
-
 
 ---
 
@@ -39,8 +38,9 @@
 
 | Project Title | Link |
 |---------------|------|
-| Phishing Awareness Campaign | [Phishing Lab with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
-| ZTA Lab – CentOS Hardened | [Zero Trust Architecture Lab](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
+| 🎣 Phishing Awareness Campaign | [Phishing Lab with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
+| 🛡️ ZTA Lab – CentOS Hardened | [Zero Trust Architecture Lab](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
+
 
 ---
 
