@@ -44,7 +44,7 @@
 
 ---
 
-## 🔹 IT Administration & Engineering
+## 🌐 IT Administration & Engineering
 
 | Project Title | Link |
 |---------------|------|
