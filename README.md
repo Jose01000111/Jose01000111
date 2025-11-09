@@ -68,30 +68,16 @@
 | 📶 Wireless Network Lab (WPA3) | [Day 4](https://github.com/Jose01000111/Day-4-My-Wireless-Network-Lab-WPA3-.git) |
 
 ---
+### 🖥️ Active Directory Labs
 
-### 🏦 Bank Branch — Active Directory Lab 2025
-
-| Project Title                                       | Link    |
-|----------------------------------------------------|---------|
-| 🛡️ Promote Domain Controller & Configure AD DS            | [Day1](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) |
-| 💻 PowerShell: Create Users & OU Hierchy      | [Day2](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) |
-| 🎟️ Banner, Login Test, Password Reset      | [Day3](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) |
-| 📁 OU Movement, Grouping, and Account Control       | [Day4](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) |
-| 🧠 Final AD Audit & Cleanup      | [Day5](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) |
-
-
----
-
-### 🐻 Active Directory – Chicago Bears HQ Lab 2024
-
-| Day | Task | Link |
-|-----|------|------|
-| 1 | Establishing the Domain | [Day 1](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
-| 2 | Creating Users & Groups | [Day 2](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
-| 2.5 | Troubleshoot DC Static IP | [Day 2.5](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
-| 3 | Shared Resources Setup | [Day 3](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
-| 4 | Securing a Leak & Deprovisioning | [Day 4](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
-| 5 | Backup & Continuity Planning | [Day 5](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
+| 🏦 Bank Branch — AD Lab 2025 | 🐻 Chicago Bears HQ — AD Lab 2024 |
+|-----------------------------|----------------------------------|
+| 🛡️ [Promote Domain Controller & Configure AD DS](https://github.com/Jose01000111/Day-1-Domain-Controller-Setup.git) | [Establishing the Domain](https://github.com/Jose01000111/Day-1-Establishing-the-Active-Directory-Domain.git) |
+| 💻 [PowerShell: Create Users & OU Hierarchy](https://github.com/Jose01000111/Day-2-AD-Structure-User-Creation.git) | [Creating Users & Groups](https://github.com/Jose01000111/Day-2-Creating-User-Accounts-and-Groups.git) |
+| 🎟️ [Banner, Login Test, Password Reset](https://github.com/Jose01000111/Day-3-Banner-Login-Test-Password-Reset.git) | [Troubleshoot DC Static IP](https://github.com/Jose01000111/troubleshoot-dc-static-ip.git) |
+| 📁 [OU Movement, Grouping, and Account Control](https://github.com/Jose01000111/Day-4-Active-Directory-Management-OU-Movement-Grouping-and-Account-Control.git) | [Shared Resources Setup](https://github.com/Jose01000111/Day-3-Setting-Up-Shared-Resources.git) |
+| 🧠 [Final AD Audit & Cleanup](https://github.com/Jose01000111/Day-5-Final-AD-Audit-Cleanup.git) | [Securing a Leak & Deprovisioning](https://github.com/Jose01000111/Day-4-Securing-a-Leak-and-Deprovisioning.git) |
+|  | [Backup & Continuity Planning](https://github.com/Jose01000111/Day-5-Backup-and-Continuity.git) |
 
 ---
 
