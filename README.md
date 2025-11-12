@@ -1,7 +1,5 @@
 # Hi, I'm Jose Guerrero
 
-![DbIHGRo](https://github.com/user-attachments/assets/8b73dcfe-ef1c-4d5e-9dda-0530f6af4d49)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joguerrero/)
 
 I’m an Information Technology Specialist learning & working with Linux, networking technologies, and security-focused technologies through hands-on projects and labs, prioritizing practical application and experimentation to deepen my skills and understanding while continuously learning and validating concepts. Linux, networking, and security-focused technologies through hands-on projects and labs, prioritizing practical application and experimentation to deepen my skills and understanding.
