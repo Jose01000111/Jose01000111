@@ -49,7 +49,6 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 |---------------|------|
 | 📝 Troubleshooting: Documenting My Problem-Solving Experiences | [Repo Link](https://github.com/Jose01000111/Troubleshooting-Documenting-My-Problem-Solving-Experiences.git) |
 
-
 ---
 
 ## 🌐 IT Administration & Engineering
