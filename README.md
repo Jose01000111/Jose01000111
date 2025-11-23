@@ -41,6 +41,14 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 🛡️ ZTA Lab – CentOS Hardened | [Zero Trust Architecture Lab](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
 | 💣 Insider Threat Logic Bomb | [Logic Bomb Simulation](https://github.com/Jose01000111/Insider-Threat-Lab-Work-Insurance-Logic-Bomb-Part-1.git) |
 
+---
+
+## 🛠️ Troubleshooting & Documentation
+
+| Project Title | Link |
+|---------------|------|
+| 📝 Troubleshooting: Documenting My Problem-Solving Experiences | [Repo Link](https://github.com/Jose01000111/Troubleshooting-Documenting-My-Problem-Solving-Experiences.git) |
+
 
 ---
 
