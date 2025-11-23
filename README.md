@@ -49,6 +49,10 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 |---------------|
 | [📝 Troubleshooting: Documenting My Problem-Solving Experiences](https://github.com/Jose01000111/Troubleshooting-Documenting-My-Problem-Solving-Experiences.git) |
 
+> - Troubleshooting network connectivity issues  
+> - Resolving static IP configuration problems  
+> - Investigating GUI behavior and disk space issues
+
 ---
 
 ## 🌐 IT Administration & Engineering
