@@ -55,12 +55,22 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 
 ---
 
+## 🎓 Certification & General Study Curriculum
+
+| Project Title | Link |
+|---------------|------|
+| 📘 LPI Linux Essentials – Study Guide & Labs | [LPI Linux Essentials](https://github.com/Jose01000111/LPI-Linux-Essentials.git) |
+| 📚 LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
+
+> These resources provide structured learning, study guides, and hands-on labs to build practical skills and reinforce concepts, applicable to certifications and general technical study.
+
+---
+
 ## 🌐 IT Administration & Engineering
 
 | Project Title | Link |
 |---------------|------|
 | 🖥️ Altostratus Linux Admin Final Project | [RHEL 9 Server](https://github.com/Jose01000111/rhel9-internal-webserver.git) |
-| 📚 LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
 | 🐧 Ubuntu Install Automation | [Ubuntu Install Lab](https://github.com/Jose01000111/Ubuntu-Install) |
 | 🔐 Remote Access with PuTTY & Bash | [PuTTY SSH Lab](https://github.com/Jose01000111/Putty-SSH-Lab.git) |
 | 🌐 Apache Installation & Setup | [Apache Lab](https://github.com/Jose01000111/Apache-Installation-Setup-Lab.git) |
