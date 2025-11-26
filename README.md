@@ -62,6 +62,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 📘 LPI Linux Essentials – Study Guide & Labs | [LPI Linux Essentials](https://github.com/Jose01000111/LPI-Linux-Essentials.git) |
 | 📚 LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
 | 🔎 SplunkCore Certified User Notes & Lab guide | [SplunkCore Certified User](https://github.com/Jose01000111/Splunk-Core-Certified-User.git) |
+| 💻 PowerShell Mastery Labs | [PowerShell Mastery Labs](https://github.com/Jose01000111/PowerShell-Self-Study-Lab-Repo.git) |
 
 > These resources provide structured learning, study guides, and hands-on labs to build practical skills and reinforce concepts, applicable to certifications and general technical study.
 
