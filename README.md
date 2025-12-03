@@ -51,7 +51,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 |-------------|------------|----------------|
 | **🪟 Windows & Network** | [💻 Windows 11 Ethernet Failure](https://github.com/Jose01000111/Remote-IT-Support.git) | Troubleshooting Windows 11 Ethernet issues ⚡ |
 |  | [🏦 DC Static IP](https://github.com/Jose01000111/Remote-IT-Support.git) | Fixing static IP issues on Domain Controllers 🖥️ |
-|  | [🛠️ Remote IT Support](https://github.com/Jose01000111/Remote-IT-Support.git) | Simulating remote IT support scenarios and documenting step-by-step resolutions 🌐💻 |
+|  | [🛠️ Remote IT Support](https://github.com/Jose01000111/Remote-IT-Support.git) | Simulating remote IT support scenarios and documenting step-by-step Ticket resolutions 🌐💻 |
 | **💾 Software & Security Tools** | [🖥️ Phase-III GUI & Disk Space Troubleshooting (Splunk)](https://github.com/Jose01000111/Remote-IT-Support.git) | GUI exploration and disk space troubleshooting on Splunk server 📊 |
 |  | [🖥️ Tenable Host Unroutable on Azure VM](https://github.com/Jose01000111/Remote-IT-Support.git) | Fixed “Host Unroutable” issue using Internal Scanner + Local scan engine-01, aligned VNets, re-entered private IP ✅ |
 
