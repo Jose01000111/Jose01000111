@@ -45,9 +45,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 
 # 🛠️ Troubleshooting: Documenting My Problem-Solving Experiences
 
-I document my troubleshooting experiences to track solutions and showcase my problem-solving process.  
-
-## 🌐🖥️ Projects Overview
+> I document my troubleshooting experiences to track solutions and showcase my problem-solving process. 
 
 | **Category** | **Project** | **Description** |
 |-------------|------------|----------------|
