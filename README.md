@@ -66,6 +66,8 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 📚 LPIC-1 Hands-On Labs & Study Guide | [LPIC-1 Labs](https://github.com/Jose01000111/Lab-StudyGuide-LPIC-1Hands-On-Labs.git) |
 | 🔎 SplunkCore Certified User Notes & Lab guide | [SplunkCore Certified User](https://github.com/Jose01000111/Splunk-Core-Certified-User.git) |
 | 💻 PowerShell Mastery Labs | [PowerShell Mastery Labs](https://github.com/Jose01000111/PowerShell-Self-Study-Lab-Repo.git) |
+| 📅 28-Days of KQL Mastery Lab – Azure ☁️ Cyber Range | [28-Days of KQL Mastery Lab](https://github.com/Jose01000111/-28-Days-of-KQL-Mastery-Lab.git) |
+
 
 > These resources provide structured learning, study guides, and hands-on labs to build practical skills and reinforce concepts, applicable to certifications and general technical study.
 
