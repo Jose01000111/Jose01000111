@@ -54,7 +54,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | Simulating remote IT support scenarios and documenting step-by-step ticket resolutions 🌐💻 | [🛠️ Remote IT Support](https://github.com/Jose01000111/Remote-IT-Support.git) |
 | GUI exploration and disk space troubleshooting on Splunk server 📊 | [🖥️ Phase-III GUI & Disk Space Troubleshooting (Splunk)](https://github.com/Jose01000111/Remote-IT-Support.git) |
 | Fixed “Host Unroutable” issue using Internal Scanner + Local scan engine-01, aligned VNets, and re-entered private IP ✅ | [🖥️ Tenable Host Unroutable on Azure VM](https://github.com/Jose01000111/Remote-IT-Support.git) |
-If by "switch sides" you meant something different (swap categories, reverse layout, flip table orientation),
+
 
 
 
