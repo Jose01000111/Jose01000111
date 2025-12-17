@@ -39,8 +39,9 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 🎣 Phishing Awareness Campaign | [Phishing Lab with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
 | 🛡️ ZTA Lab – CentOS Hardened | [Zero Trust Architecture Lab](https://github.com/Jose01000111/ZTA-lab-ubuntu-hardened.git) |
 | 💣 Insider Threat Logic Bomb | [Logic Bomb Simulation](https://github.com/Jose01000111/Insider-Threat-Lab-Work-Insurance-Logic-Bomb-Part-1.git) |
-| 🧨 Logic Bombs & Hidden Artifacts | [Tenable Ubuntu Security Lab]((https://github.com/Jose01000111/Tenable-Ubuntu-Security-Lab-Logic-Bombs-Hidden-Artifacts.git)) |
-| 🏥 MedSecure Health Vulnerability Scan | [Vulnerability Management Program Implementation](https://github.com/Jose01000111/Vulnerability-Management-Program-Implementation.git) | 
+| 🔍 Tenable Ubuntu Security Lab: Logic Bombs & Hidden Artifacts | [Tenable Ubuntu Security Lab](https://github.com/Jose01000111/Tenable-Ubuntu-Security-Lab-Logic-Bombs-Hidden-Artifacts.git) |
+| 🏥 MedSecure Health Vulnerability Scan | [Vulnerability Management Program Implementation](https://github.com/Jose01000111/Vulnerability-Management-Program-Implementation.git) |
+
 
 # [👉🛡️ Vulnerability Scan Portfolio Summary](https://github.com/Jose01000111/Vulnerability-Scan-Portfolio.git)
 
