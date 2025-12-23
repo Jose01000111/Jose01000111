@@ -32,6 +32,8 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 
 ---
 
+## 🗂️ Security Research & Vulnerability Projects
+
 | Project Title | Link |
 |---------------|------|
 | 🎣 Phishing Awareness Campaign | [Phishing Lab with Rocky Linux](https://github.com/Jose01000111/-Phishing-Awareness-Lab-.git) |
