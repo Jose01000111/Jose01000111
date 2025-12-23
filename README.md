@@ -41,9 +41,8 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 💣 Insider Threat Logic Bomb | [Logic Bomb Simulation](https://github.com/Jose01000111/Insider-Threat-Lab-Work-Insurance-Logic-Bomb-Part-1.git) |
 | 🔍 Tenable Ubuntu Security Lab: Logic Bombs & Hidden Artifacts | [Tenable Ubuntu Security Lab](https://github.com/Jose01000111/Tenable-Ubuntu-Security-Lab-Logic-Bombs-Hidden-Artifacts.git) |
 | 🔒 STIG & Vulnerability Management Lab – Ubuntu Part 2 | [STIG Implementation & Vulnerability Lab](https://github.com/Jose01000111/STIG-Implementation-Vulnerability-Lab-on-Ubuntu-Server-for-Chicago-Hospital.git) |
+| 🔒 STIG Continuity Lab: Bash-Based Linux Hardening Automation | [STIG Automation Lab](https://github.com/Jose01000111/Advanced-Linux-Security-STIG-Automation.git) |
 | 🏥 MedSecure Health Vulnerability Scan | [Vulnerability Management Program Implementation](https://github.com/Jose01000111/Vulnerability-Management-Program-Implementation.git) |
-
-
 
 # [👉🛡️ Vulnerability Scan Portfolio Summary](https://github.com/Jose01000111/Vulnerability-Scan-Portfolio.git)
 
