@@ -44,7 +44,7 @@ I’m an Information Technology Specialist learning & working with Linux, networ
 | 🔒 Ubuntu STIG & Vulnerability Remediation Lab | [Secure configuration implementation and findings remediation](https://github.com/Jose01000111/STIG-Implementation-Vulnerability-Lab-on-Ubuntu-Server-for-Chicago-Hospital.git) |
 | 🔒 Linux STIG Automation & Continuity Lab | [Bash-based hardening automation for compliance enforcement](https://github.com/Jose01000111/Advanced-Linux-Security-STIG-Automation.git) |
 | 🏥 MedSecure Health – Vulnerability Management Program | [Enterprise vulnerability assessment and program design](https://github.com/Jose01000111/Vulnerability-Management-Program-Implementation.git) |
-| 🎰 SOX ITGC – Casino Financial System | [SOC-compliant ITGC lab and documentation](https://github.com/Jose01000111/SOX-ITGC-Casino-Financial-System.git) |
+| 🎰 SOX ITGC – Casino Financial System | [SOX-compliant ITGC lab and documentation](https://github.com/Jose01000111/SOX-ITGC-Casino-Financial-System.git) |
 
 
 ## [👉🛡️ Vulnerability Management Portfolio](https://github.com/Jose01000111/Vulnerability-Scan-Portfolio.git)
